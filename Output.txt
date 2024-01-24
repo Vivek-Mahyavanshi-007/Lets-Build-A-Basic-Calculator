@@ -1,0 +1,3 @@
+Entered values: 2, 5
+Operation: 2 * 5
+Result = 10
